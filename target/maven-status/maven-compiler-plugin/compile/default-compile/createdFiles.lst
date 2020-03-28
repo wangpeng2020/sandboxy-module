@@ -1,0 +1,3 @@
+modules\demo\SpringDemoModule.class
+modules\demo\SpringDemoModule$1.class
+META-INF\services\com.alibaba.jvm.sandbox.api.Module
